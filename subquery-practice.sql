@@ -1,4 +1,5 @@
--- Problem: What is the split of cases in terms of gender? How many cases were male? How many were female? Show the totals per month. Consider only those aged 18-60 Order results by month ascending, and then by gender (Female first).
+-- Problem: What is the split of cases in terms of gender? How many cases were male? How many were female? Show the totals per month. 
+-- Consider only those aged 18-60 Order results by month ascending, and then by gender (Female first).
 -- Run this SQL code using Google Big Query. 
 
 -- the columns selected here and operated on are from the first subquery
